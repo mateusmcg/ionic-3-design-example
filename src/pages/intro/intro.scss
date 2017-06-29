@@ -1,0 +1,16 @@
+page-intro {
+    .bg-image{
+        background-image: url("../assets/img/bg.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .swiper-pagination-bullet-active{
+        background-color: white;
+    }
+
+    .padding{
+        padding-bottom: 100px;
+    }
+}
